@@ -3,7 +3,7 @@
 #	desc:	linear regression using statsmodels
 #	date:	2018-07-14
 #	Author:	conquistadorjd
-#   reference: http://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
+#   reference: http://www.statsmodels.org/dev/examples/notebooks/generated/ols.html 
 ################################################################################################
 import numpy as np
 import statsmodels.api as sm

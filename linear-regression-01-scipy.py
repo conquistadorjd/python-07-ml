@@ -3,7 +3,7 @@
 #	desc:	linear regression using scipy
 #	date:	2018-07-14
 #	Author:	conquistadorjd
-#   https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+#   https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html 
 ################################################################################################
 import numpy as np
 import statsmodels.api as sm
